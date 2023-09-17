@@ -1,6 +1,6 @@
 ADDMNX
 46HCRAA+14141410607706~AHMADO= ZUBI
- 46HCRAAYTRID25BE2C6F4D93G19191410240042~AHMADO= Bd 1 houre
+ 
 __________________________________________
  
 __________________________________________
@@ -69,7 +69,7 @@ __________________________________________
 
 user approval
 16 sep for 15 day
-46HCRAA+68141410260062~AHMADO= MEHAK BAQAR ALI
+46HCRAAYTRID46007F737893G68141410470074~AHMADO= MEHAK BAQAR ALI
 16 sep for 15 day
 46HCRAAFREP6819410249942~AHMADO= MUBASHIR
 16 SEP FOR 1 MONTH
