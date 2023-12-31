@@ -11,7 +11,7 @@ __________________________________________________________
 46HCRAAYTRIDDF5F27DD2C02G19191410260062~AHMADO= PATHAN
  46HCRAAFREP6819410250052~AHMADO=
 __________________________________________________________
- : IQRA 46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510253352~AHMADO=
+IQRA 46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510253352~AHMADO=
 __________________________________________________________
 46HCRAA629925613514410211112~AHMADO= HAMMAD
 __________________________________________________________
@@ -59,6 +59,8 @@ __________________________________________________________
 L7VMRA14BA+39141410224422~AHMADO= muski
 __________________________________________________________
 USER APPROVAL
+APPRPVE DATE 31 DECEMBER FOR 1 MONTH
+46HCRAA+FREP081414100066~AHMADO= FADI
 APPROVE DATE 31 DECEMBER FOR 15 DAY
 46HCRAA4535907231191410346643~AHMADO= ahsan ali
 APPROVE DATE 31 DECEMBER FOR 1 MONTH
